@@ -68,6 +68,7 @@
     <Compile Include="Assets\Scritps\Moving.cs" />
     <Compile Include="Assets\Scritps\MovingSystem.cs" />
     <Compile Include="Assets\Scritps\PureECSManager.cs" />
+    <Compile Include="Assets\Scritps\RemovDeadSystem.cs" />
     <Compile Include="Assets\Scritps\Times.cs" />
     <Compile Include="Assets\Scritps\TimesSystem.cs" />
     <Reference Include="Unity.Timeline.Editor">
