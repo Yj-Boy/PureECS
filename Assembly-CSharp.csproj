@@ -62,6 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\EcsWithJobScript\GamePlayManager.cs" />
+    <Compile Include="Assets\EcsWithJobScript\MovementSystem.cs" />
+    <Compile Include="Assets\EcsWithJobScript\MoveSpeed.cs" />
     <Compile Include="Assets\Scritps\Moving.cs" />
     <Compile Include="Assets\Scritps\MovingSystem.cs" />
     <Compile Include="Assets\Scritps\PureECSManager.cs" />
