@@ -62,6 +62,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\EcsWithDestory\CollisionSystem.cs" />
+    <Compile Include="Assets\EcsWithDestory\EnemyTagComponent.cs" />
+    <Compile Include="Assets\EcsWithDestory\GamePlayerManager.cs" />
+    <Compile Include="Assets\EcsWithDestory\HealthComponent.cs" />
+    <Compile Include="Assets\EcsWithDestory\MoveForwardComponent.cs" />
+    <Compile Include="Assets\EcsWithDestory\MoveSpeedComponent.cs" />
+    <Compile Include="Assets\EcsWithDestory\MoveSystem.cs" />
+    <Compile Include="Assets\EcsWithDestory\PlayerTagComponent.cs" />
+    <Compile Include="Assets\EcsWithDestory\RemoveDeadSystem.cs" />
+    <Compile Include="Assets\EcsWithDestory\TimeDestorySystem.cs" />
+    <Compile Include="Assets\EcsWithDestory\TimeSystem.cs" />
+    <Compile Include="Assets\EcsWithDestory\TimeToLiveComponent.cs" />
     <Compile Include="Assets\EcsWithJobScript\GamePlayManager.cs" />
     <Compile Include="Assets\EcsWithJobScript\MovementSystem.cs" />
     <Compile Include="Assets\EcsWithJobScript\MoveSpeed.cs" />
