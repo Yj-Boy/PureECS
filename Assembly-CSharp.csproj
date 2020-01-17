@@ -77,6 +77,9 @@
     <Compile Include="Assets\EcsWithJobScript\GamePlayManager.cs" />
     <Compile Include="Assets\EcsWithJobScript\MovementSystem.cs" />
     <Compile Include="Assets\EcsWithJobScript\MoveSpeed.cs" />
+    <Compile Include="Assets\Rotete\CreateRotateCube.cs" />
+    <Compile Include="Assets\Rotete\RotateSpeedComponent.cs" />
+    <Compile Include="Assets\Rotete\RotateSystem.cs" />
     <Compile Include="Assets\Scritps\Moving.cs" />
     <Compile Include="Assets\Scritps\MovingSystem.cs" />
     <Compile Include="Assets\Scritps\PureECSManager.cs" />
